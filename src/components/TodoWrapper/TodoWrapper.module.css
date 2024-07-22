@@ -1,0 +1,8 @@
+.wrapper {
+}
+.container {
+  border-radius: 5px;
+  min-height: 200px;
+  max-width: 450px;
+  margin: 0 auto;
+}
